@@ -20,14 +20,21 @@ Key features: Sales & order analysis, tech product performance, price and market
 - Delivery delays are a significant issue, with both Magist's handover to the postal service and the postal service itself contributing to delays
 
 # Technologies used
+
 Data extraction and analysis: MySQL Workbensh
+
 Data Visualization: Tableau
+
 Presentation: Google Slides
+
 Machine Learning : Chat GPT
 
 # Project structure
+
 README: Project documentation
+
 SQL-Code: All SQL queries used for analysis
+
 Presentation: Final presentation
 
 # Visualisations
