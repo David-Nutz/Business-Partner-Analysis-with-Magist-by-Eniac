@@ -34,11 +34,11 @@ Presentation: Final presentation
 
 Our categorisation of tech categories, comparing them to the top non-tech categories:
 
-![Tech_categories and top performers]("C:\Users\Admin\Desktop\WBS\Main Course\Pictures\Eniac 1\Tech cat.png")
+![Tech categories](images/Tech%20cat.png)
 
 Seller and order growth over time:
 
-![Orders and sellers]("C:\Users\Admin\Desktop\WBS\Main Course\Pictures\Eniac 1\Orders sellers.png")
+![Orders sellers]("C:\Users\Admin\Desktop\WBS\Main Course\Pictures\Eniac 1\Orders sellers.png")
 
 Delivery process and delays by average:
 
