@@ -34,15 +34,15 @@ Presentation: Final presentation
 
 Our categorisation of tech categories, comparing them to the top non-tech categories:
 
-![Tech categories](images/Tech%20cat.png)
+![Tech categories](images/Tech_categories.png)
 
 Seller and order growth over time:
 
-![Orders sellers]("C:\Users\Admin\Desktop\WBS\Main Course\Pictures\Eniac 1\Orders sellers.png")
+![Orders and sellers](images/Orders_and_sellers.png)
 
 Delivery process and delays by average:
 
-![Delivery process]("C:\Users\Admin\Desktop\WBS\Main Course\Pictures\Eniac 1\Delivery_process.png")
+![Delivery process](images/Delivery_process.png)
 
 # Future Work
 A deeper look into Magist's customers: Do Magist's customers become regular customers, or do they not stay in their market?
