@@ -38,7 +38,7 @@ Our categorisation of tech categories, comparing them to the top non-tech catego
 
 Seller and order growth over time:
 
-![Orders and sellers](images/Orders_and_sellers.png)
+<img src="images/Tech_categories.png" alt="Tech categories" width="600">
 
 Delivery process and delays by average:
 
