@@ -38,11 +38,11 @@ Our categorisation of tech categories, comparing them to the top non-tech catego
 
 Seller and order growth over time:
 
-<img src="images/Orders_and_sellers.png" alt="Orders and sellers" width="500">
+<img src="images/Orders_and_sellers.png" alt="Orders and sellers" width="550">
 
 Delivery process and delays by average:
 
-<img src="images/Delivery_process.png" alt="Delivery process" width="500">
+<img src="images/Delivery_process.png" alt="Delivery process" width="550">
 
 # Future Work
 A deeper look into Magist's customers: Do Magist's customers become regular customers, or do they not stay in their market?
