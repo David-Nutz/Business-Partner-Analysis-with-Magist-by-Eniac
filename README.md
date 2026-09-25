@@ -21,7 +21,7 @@ Key features: Sales & order analysis, tech product performance, price and market
 
 # Technologies used
 
-Data extraction and analysis: MySQL Workbensh
+Data extraction and analysis: MySQL Workbench
 
 Data Visualization: Tableau
 
